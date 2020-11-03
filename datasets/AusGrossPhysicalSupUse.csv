@@ -1,0 +1,135 @@
+﻿            Australian Bureau of Statistics,,,,,,,,,,,,,,
+"46040DO0003 Energy Account, Australia, 2017-18",,,,,,,,,,,,,,
+Released at 11.30am (Canberra time) 11 December 2019,,,,,,,,,,,,,,
+"Table 3.1 Gross physical supply and use of energy, Australia (Petajoules), 2017-18",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Physical Supply,,,,,,,,,,,,,,
+,Production (incl. Household own account) & generation of Residuals,,,,,,,,,,Accumulation,Rest of the world (import),Flows from the environment,Total
+,Industries (ANZSIC),,,,,,,,Households,Government,,,,
+Input or product,"Agriculture, forestry and fishing",Mining,Manufacturing,"Electricity, gas, water and waste services",Construction,"Transport, storage and services",Commercial and Services (a),Total industries,,,,,,
+Natural inputs,,,,,,,,,,,,,,
+Black coal,,,,,,,,,,,,,"12,370","12,370"
+Brown coal,,,,,,,,,,,,,473,473
+Met Coke,,,,,,,,,,,,,,
+Coal by-products,,,,,,,,,,,,,,
+Briquettes,,,,,,,,,,,,,,
+Natural gas,,,,,,,,,,,,,"4,824","4,824"
+LNG,,,,,,,,,,,,,,
+Crude oil and feedstocks,,,,,,,,,,,,,589,589
+Petrol,,,,,,,,,,,,,,
+Diesel,,,,,,,,,,,,,,
+Other refined fuels and products,,,,,,,,,,,,,,
+LPG,,,,,,,,,,,,,112,112
+Biofuels,,,,,,,,,,,,,23,23
+Wood and wood waste,,,,,,,,,,,,,94,94
+Bagasse,,,,,,,,,,,,,100,100
+Electricity,,,,,,,,,,,,,,
+Hydro energy,,,,,,,,,,,,,58,58
+Solar energy ,,,,,,,,,,,,,53,53
+Wind energy,,,,,,,,,,,,,55,55
+Uranium,,,,,,,,,,,,,"3,127","3,127"
+Production of energy products,,,,,,,,,,,,,,
+Black coal,-,"12,370",-,-,-,-,-,"12,370",-,,,-,,"12,370"
+Brown coal,-,-,-,473,-,-,-,473,-,,,-,,473
+Met Coke,-,-,68,-,-,-,-,68,-,,,-,,68
+Coal by-products,-,-,44,-,-,-,-,44,-,,,-,,44
+Briquettes,-,-,-,-,-,-,-,-,-,,,-,,-
+Natural gas,-,"4,824",-,-,-,-,-,"4,824",-,,,93,,"4,918"
+LNG,-,"3,376",-,-,-,-,-,"3,376",-,,,-,,"3,376"
+Crude oil and feedstocks,-,589,-,-,-,-,-,589,-,,,868,,"1,457"
+Petrol,-,-,390,-,-,-,-,390,-,,,223,,614
+Diesel,-,-,355,-,-,-,-,355,-,,,778,,"1,133"
+Other refined fuels and products,-,-,399,-,-,-,-,399,-,,,316,,715
+LPG,-,82,30,-,-,-,-,112,-,,,23,,135
+Biofuels,-,-,11,13,-,-,-,23,-,,,-,,23
+Wood and wood waste,73,-,21,-,-,-,-,94,28,,,-,,94
+Bagasse,-,-,100,-,-,-,-,100,-,,,-,,100
+Electricity,-,61,24,838,4,-,1,930,-,,,-,,931
+Hydro energy,-,-,-,58,-,-,-,58,-,,,-,,58
+Solar energy ,-,-,-,52,-,-,-,53,49,,,-,,53
+Wind energy,-,-,-,55,-,-,-,55,-,,,-,,55
+Uranium,-,"3,127",-,-,-,-,-,"3,127",-,,,-,,"3,127"
+Energy residuals,-,352,272,"1,336",1,-,-,"1,960",-,,,,,"1,960"
+Total supply (gross),73,"24,782","1,715","2,823",5,-,1,"29,402",78,,,"2,301","21,879","53,583"
+Total supply (net),..,..,..,..,..,..,..,..,..,,,"2,301","21,879","24,180"
+,,,,,,,,,,,,,,
+Physical Use,,,,,,,,,,,,,,
+,Production (incl. Household own account) & generation of Residuals,,,,,,,,Final Consumption,,Accumulation,Rest of the world (export),Flows to the environment,Total
+,Industries (ANZSIC),,,,,,,,Households,Government,,,,
+Input or product,"Agriculture, forestry and fishing",Mining,Manufacturing,"Electricity, gas, water and waste services",Construction,"Transport, storage and services",Commercial and Services (a),Total industries,,,,,,
+Energy from natural inputs,,,,,,,,,,,,,,
+Black coal,-,"12,370",-,-,-,-,-,"12,370",,,,,,"12,370"
+Brown coal,-,-,-,473,-,-,-,473,,,,,,473
+Met Coke,-,-,-,-,-,-,-,-,,,,,,-
+Coal by-products,-,-,-,-,-,-,-,-,,,,,,-
+Briquettes,-,-,-,-,-,-,-,-,,,,,,-
+Natural gas,-,"4,824",-,-,-,-,-,"4,824",,,,,,"4,824"
+LNG,-,-,-,-,-,-,-,-,,,,,,-
+Crude oil and feedstocks,-,589,-,-,-,-,-,589,,,,,,589
+Petrol,-,-,-,-,-,-,-,-,,,,,,-
+Diesel,-,-,-,-,-,-,-,-,,,,,,-
+Other refined fuels and products,-,-,-,-,-,-,-,-,,,,,,-
+LPG,-,82,30,-,-,-,-,112,,,,,,112
+Biofuels,-,-,11,13,-,-,-,23,,,,,,23
+Wood and wood waste,73,-,21,-,-,-,-,94,,,,,,94
+Bagasse,-,-,100,-,-,-,-,100,,,,,,100
+Electricity,-,-,-,-,-,-,-,-,,,,,,-
+Hydro energy,-,-,-,58,-,-,-,58,,,,,,58
+Solar energy ,-,-,-,52,-,-,-,53,,,,,,53
+Wind energy,-,-,-,55,-,-,-,55,,,,,,55
+Uranium,-,"3,127",-,-,-,-,-,"3,127",,,,,,"3,127"
+Transformation of energy products,,,,,,,,,,,,,,
+Black coal,-,4,115,"1,164",-,-,-,"1,284",,,,,,"1,284"
+Brown coal,-,-,-,473,-,-,-,473,,,,,,473
+Met Coke,-,np,np,-,-,-,-,50,,,,,,50
+Coal by-products,-,np,np,-,-,-,-,39,,,,,,39
+Briquettes,-,-,-,-,-,-,-,-,,,,,,-
+Natural gas,-,"3,776",35,358,4,-,-,"4,175",,,,,,"4,175"
+LNG,-,-,-,-,-,-,-,-,,,,,,-
+Crude oil and feedstocks,-,-,"1,081",-,-,-,-,"1,081",,,,,,"1,081"
+Petrol,-,np,np,-,-,-,-,-,,,,,,-
+Diesel,-,8,3,10,1,-,-,22,,,,,,22
+Other refined fuels and products,-,-,144,3,1,-,-,148,,,,,,148
+LPG,-,-,-,-,-,-,-,-,,,,,,-
+Biofuels,-,np,np,15,-,-,-,17,,,,,,17
+Wood and wood waste,-,-,-,17,-,-,-,17,,,,,,17
+Bagasse,-,-,84,17,-,-,-,100,,,,,,100
+Electricity,-,-,-,-,-,-,-,-,,,,,,-
+Hydro energy,-,-,-,57,-,-,-,57,,,,,,57
+Solar energy ,-,-,-,3,-,-,-,4,,,,,,4
+Wind energy,-,-,-,55,-,-,-,55,,,,,,55
+Uranium,-,-,-,-,-,-,-,-,,,,,,-
+End use of energy products,,,,,,,,,,,,,,
+Black coal,-,-,105,-,-,-,-,105,-,-,220,"10,761",,"11,086"
+Brown coal,-,-,-,-,-,-,-,-,-,-,-,-,,-
+Met Coke,-,np,np,-,-,-,-,8,-,-,-10,20,,18
+Coal by-products,-,np,np,-,-,-,-,-,-,-,4,-,,5
+Briquettes,-,-,-,-,-,-,-,-,-,-,-,-,,-
+Natural gas,1,122,383,7,-,11,67,592,161,10,-14,5,,743
+LNG,-,-,-,-,-,-,-,-,-,-,-,"3,376",,"3,376"
+Crude oil and feedstocks,-,1,51,1,-,-,-,53,-,-,-176,500,,376
+Petrol,7,np,np,1,18,8,29,70,561,8,-40,23,,614
+Diesel,99,281,30,17,109,260,82,880,209,30,18,5,,"1,111"
+Other refined fuels and products,-,5,38,3,-,371,-,417,-,11,119,30,,567
+LPG,2,1,5,-,2,3,6,20,50,1,-4,69,,134
+Biofuels,-,np,np,-,-,6,-,7,-,-,-1,-,,6
+Wood and wood waste,-,-,28,-,-,-,-,29,48,-,-,-,,77
+Bagasse,-,-,-,-,-,-,-,-,-,-,-,-,,-
+Electricity,8,137,290,113,7,17,153,724,207,55,-7,7,,931
+Hydro energy,-,-,-,-,-,-,-,-,-,-,-,-,,-
+Solar energy ,-,-,-,-,-,-,-,-,49,-,-,-,,49
+Wind energy,-,-,-,-,-,-,-,-,-,-,-,-,,-
+Uranium,-,-,-,-,-,-,-,-,-,-,-688,"3,815",,"3,127"
+Energy residuals,..,..,..,..,..,..,..,..,..,..,..,..,"1,960","1,960"
+Total use (gross),190,"25,332","2,663","2,965",141,677,338,"32,307","1,285",115,-579,"18,609","1,960","53,583"
+Total use (net),117,550,946,142,135,677,337,"2,904","1,285",115,-579,"18,609","1,960","24,180"
+,,,,,,,,,,,,,,
+           null by definition,,,,,,,,,,,,,,
+.. not applicable,,,,,,,,,,,,,,
+ - nil or rounded to zero (including null cells),,,,,,,,,,,,,,
+np not available for publication,,,,,,,,,,,,,,
+"(a) Commercial and Services industry includes ANZSIC divisions F,G,H,J,K,L,M,N,O,P,Q,R,S.",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+© Commonwealth of Australia 2019,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
