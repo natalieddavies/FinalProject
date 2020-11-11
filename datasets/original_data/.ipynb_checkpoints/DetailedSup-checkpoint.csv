@@ -1,0 +1,1609 @@
+"Australian Bureau of Statistics",,,,,,,,,,,,,,,,,,,,,,
+"46040DO0006 Energy Account, Australia, 2017-18",,,,,,,,,,,,,,,,,,,,,,
+Released at 11.30am (Canberra time) 11 December 2019,,,,,,,,,,,,,,,,,,,,,,
+"Table 6.1 Detailed net physical supply and use of energy, Australia, 2002-03 to 2017-18",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Supply or Use,Commodity,Industry division (ANZSIC),ANZSIC division code,Industry subdivision,ANZSIC subdivision code,Unit,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16,2016-17,2017-18
+Supply,Black coal,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,82,80,78,75,73,72,68,65,62,62,72,73,72,74,75,73
+Supply,Bagasse,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,82,80,78,75,73,72,68,65,62,62,72,73,72,74,75,73
+Supply,Black coal,Mining,B,Coal Mining,06,PJ,"7,287","7,535","8,055","8,141","8,632","8,651","9,009","9,759","9,244","9,885","10,902","11,807","12,288","12,157","12,162","12,370"
+Supply,Brown coal,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Mining,B,Coal Mining,06,PJ,"7,287","7,535","8,055","8,141","8,632","8,651","9,009","9,759","9,244","9,885","10,902","11,807","12,288","12,157","12,162","12,370"
+Supply,Black coal,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Mining,B,Oil and Gas Extraction,07,PJ,"1,462","1,463","1,638","1,725","1,910","1,977","2,083","2,190","2,398","2,273","2,605","2,691","2,777","3,500","4,233","4,824"
+Supply,Liquefied natural gas,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Mining,B,Oil and Gas Extraction,07,PJ,"1,233","1,032",941,860,"1,036",963,"1,093","1,069","1,015",935,838,780,726,701,621,589
+Supply,Petrol,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Mining,B,Oil and Gas Extraction,07,PJ,126,125,127,130,150,132,134,136,117,118,114,116,99,99,83,82
+Supply,Biofuels,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Mining,B,Oil and Gas Extraction,07,PJ,"2,821","2,621","2,705","2,716","3,096","3,073","3,310","3,395","3,530","3,326","3,558","3,588","3,602","4,300","4,937","5,495"
+Supply,Black coal,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Mining,B,Other Mining,"08,09,10",PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Supply,Total,Mining,B,Other Mining,"08,09,10",PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Supply,Black coal,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,3,3,2,3,3,4,5,6,7,7,7,8,7,6,5,5
+Supply,Wood and Wood waste,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,95,101,108,109,111,111,65,93,83,85,95,90,103,103,110,100
+Supply,Electricity,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,98,104,111,112,114,115,71,99,90,92,102,98,110,109,115,106
+Supply,Black coal,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,2,2,2,2,2,3,3,4,4,5,4,5,5,4,4,4
+Supply,Wood and Wood waste,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,23,23,23,24,26,27,21,22,23,22,19,20,20,22,22,21
+Supply,Bagasse,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,25,25,24,25,27,29,24,26,27,27,23,25,25,26,27,25
+Supply,Black coal,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,49,33,38,42,49,50,49,45,60,50,48,45,39,32,30,30
+Supply,Biofuels,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,1,1,1,1,1,2,3,3,3,4,3,4,4,1,2,2
+Supply,Wood and Wood waste,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,50,34,39,43,50,52,51,48,63,54,52,48,43,34,32,32
+Supply,Black coal,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,732,727,737,745,728,732,752,759,737,745,645,625,678,635,584,473
+Supply,Coke,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,1,1,1,1,1,1,1,1,1,1
+Supply,Wood and Wood waste,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,59,59,56,58,52,43,43,49,60,51,66,66,48,55,59,58
+Supply,Solar energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,1,2,6,9,14,16,20,24,29,35
+Supply,Wind energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,3,3,3,6,9,11,14,18,22,25,29,37,41,44,45,55
+Supply,Uranium,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,794,789,797,809,791,788,809,829,826,830,754,745,789,759,718,622
+Supply,Black coal,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,5,4,4,4,4,6,8,9,11,11,11,12,11,10,10,12
+Supply,Wood and Wood waste,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,3,3,3,2,6,7,8,10,12,12,13,13,15,15,16,17
+Supply,Wind energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,7,7,6,6,10,13,16,20,22,24,24,25,26,25,26,28
+Supply,Black coal,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Information media and telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Black coal,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,"7,287","7,535","8,055","8,141","8,632","8,651","9,009","9,759","9,244","9,885","10,902","11,807","12,288","12,157","12,162","12,370"
+Supply,Brown coal,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,732,727,737,745,728,732,752,759,737,745,645,625,678,635,584,473
+Supply,Coke,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,"1,462","1,463","1,638","1,725","1,910","1,977","2,083","2,190","2,398","2,273","2,605","2,691","2,777","3,500","4,233","4,824"
+Supply,Liquefied natural gas,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,"1,233","1,032",941,860,"1,036",963,"1,093","1,069","1,015",935,838,780,726,701,621,589
+Supply,Petrol,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,175,158,165,172,199,183,183,181,176,168,162,161,138,132,113,112
+Supply,Biofuels,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,11,11,9,10,11,15,20,23,26,28,26,29,28,23,22,23
+Supply,Wood and Wood waste,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,105,103,100,99,99,99,89,88,85,83,91,93,92,96,98,94
+Supply,Bagasse,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,95,101,108,109,111,111,65,93,83,85,95,90,103,103,110,100
+Supply,Electricity,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,59,59,56,58,52,43,43,49,61,51,66,66,48,55,59,58
+Supply,Solar energy,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,3,3,3,3,6,7,9,12,17,22,27,29,35,40,45,53
+Supply,Wind energy,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,3,3,3,6,9,11,14,18,22,25,29,37,41,44,45,55
+Supply,Uranium,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Supply,Total,Total direct extraction by industry,,Total direct extraction by industry Total,,PJ,"15,476","15,692","16,970","16,638","17,274","17,550","18,213","17,561","17,220","17,902","19,695","19,204","20,009","21,087","21,521","21,879"
+Supply,Black coal,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Liquefied natural gas,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Petrol,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Diesel,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Other refined fuels and products,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,LPG,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Biofuels,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,43,41,40,38,37,36,34,33,31,31,31,30,29,29,29,28
+Supply,Bagasse,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,3,3,3,3,6,7,9,12,17,22,27,29,34,38,43,49
+Supply,Wind energy,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-
+Supply,Uranium,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Of which direct extraction by households,,Of which direct extraction by households Total,,PJ,46,44,43,41,43,43,43,45,48,53,58,59,65,67,71,78
+Supply,Black coal,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Brown coal,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coke,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Imports,,Imports Total,,PJ,-,-,-,24,109,103,121,106,111,97,116,117,104,113,103,93
+Supply,Liquefied natural gas,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Imports,,Imports Total,,PJ,"1,082",909,"1,008",945,981,"1,015",940,"1,056","1,229","1,141","1,160","1,096",957,768,788,868
+Supply,Petrol,Imports,,Imports Total,,PJ,61,114,110,128,103,124,144,138,107,131,132,129,194,233,243,223
+Supply,Diesel,Imports,,Imports Total,,PJ,63,131,153,237,211,289,319,335,341,434,484,526,587,687,716,778
+Supply,Other refined fuels and products,Imports,,Imports Total,,PJ,59,101,108,114,155,193,208,210,196,195,200,211,233,294,293,316
+Supply,LPG,Imports,,Imports Total,,PJ,8,21,15,16,20,26,27,29,24,28,25,20,26,25,27,23
+Supply,Biofuels,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wood and Wood waste,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Bagasse,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Electricity,Imports,,Imports Total,,PJ,-,-,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Solar energy,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Wind energy,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Uranium,Imports,,Imports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Total,Imports,,Imports Total,,PJ,"1,274","1,277","1,395","1,465","1,580","1,750","1,760","1,874","2,009","2,026","2,118","2,099","2,101","2,121","2,171","2,301"
+Supply,Black coal,Total supply,,,,PJ,"7,287","7,535","8,055","8,141","8,632","8,651","9,009","9,759","9,244","9,885","10,902","11,807","12,288","12,157","12,162","12,370"
+Supply,Brown coal,Total supply,,,,PJ,732,727,737,745,728,732,752,759,737,745,645,625,678,635,584,473
+Supply,Coke,Total supply,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Coal by-products,Total supply,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Briquettes,Total supply,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Natural gas,Total supply,,,,PJ,"1,462","1,463","1,638","1,749","2,019","2,080","2,204","2,296","2,509","2,370","2,722","2,808","2,881","3,613","4,336","4,918"
+Supply,Liquefied natural gas,Total supply,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Crude oil and feedstocks,Total supply,,,,PJ,"2,315","1,942","1,949","1,805","2,017","1,978","2,033","2,125","2,245","2,076","1,998","1,876","1,683","1,469","1,409","1,457"
+Supply,Petrol,Total supply,,,,PJ,61,114,110,128,103,124,144,138,107,131,132,129,194,233,243,223
+Supply,Diesel,Total supply,,,,PJ,63,131,153,237,211,289,319,335,341,434,484,526,587,687,716,778
+Supply,Other refined fuels and products,Total supply,,,,PJ,59,101,108,114,155,193,208,210,196,195,200,211,233,294,293,316
+Supply,LPG,Total supply,,,,PJ,183,180,180,189,219,209,210,210,200,196,187,180,164,156,141,135
+Supply,Biofuels,Total supply,,,,PJ,11,11,9,10,11,15,20,23,26,28,26,29,28,23,22,23
+Supply,Wood and Wood waste,Total supply,,,,PJ,105,103,100,99,99,99,89,88,85,83,91,93,92,96,98,94
+Supply,Bagasse,Total supply,,,,PJ,95,101,108,109,111,111,65,93,83,85,95,90,103,103,110,100
+Supply,Electricity,Total supply,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Supply,Hydro energy,Total supply,,,,PJ,59,59,56,58,52,43,43,49,61,51,66,66,48,55,59,58
+Supply,Solar energy,Total supply,,,,PJ,3,3,3,3,6,7,9,12,17,22,27,29,35,40,45,53
+Supply,Wind energy,Total supply,,,,PJ,3,3,3,6,9,11,14,18,22,25,29,37,41,44,45,55
+Supply,Uranium,Total supply,,,,PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Supply,Total,Total supply,,,,PJ,"16,750","16,969","18,364","18,103","18,853","19,300","19,973","19,435","19,229","19,928","21,813","21,303","22,110","23,207","23,692","24,180"
+Use,Black coal,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,1,1,1,1,1,1,1
+Use,Liquefied natural gas,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7
+Use,Diesel,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,56,58,62,63,64,68,69,71,76,81,87,90,86,91,98,99
+Use,Other refined fuels and products,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,2,2,2,3,2,2,2,2,2,2,2,2,2,2,2,2
+Use,Biofuels,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,10,10,9,9,9,9,8,8,8,8,8,9,8,8,7,8
+Use,Hydro energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Agriculture, forestry and fishing",A,"Agriculture, forestry and fishing Total",,PJ,74,77,79,81,82,86,86,88,92,99,105,109,105,109,115,117
+Use,Black coal,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Mining,B,Coal Mining,06,PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,Mining,B,Coal Mining,06,PJ,61,64,68,69,70,74,76,78,83,89,101,103,97,103,112,121
+Use,Other refined fuels and products,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,1,2,1,1,1,1,1,1,1,-
+Use,LPG,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Mining,B,Coal Mining,06,PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Wood and Wood waste,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Mining,B,Coal Mining,06,PJ,17,18,18,18,19,19,20,19,20,20,22,23,23,23,23,22
+Use,Hydro energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Mining,B,Coal Mining,06,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Mining,B,Coal Mining,06,PJ,79,82,87,88,90,95,97,100,106,113,127,131,125,128,136,144
+Use,Black coal,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Mining,B,Oil and Gas Extraction,07,PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Mining,B,Oil and Gas Extraction,07,PJ,13,14,14,12,20,24,31,30,31,35,26,27,28,66,59,59
+Use,Liquefied natural gas,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Mining,B,Oil and Gas Extraction,07,PJ,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,1
+Use,Petrol,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,Mining,B,Oil and Gas Extraction,07,PJ,8,8,8,9,9,9,9,10,10,11,10,11,9,13,9,8
+Use,Other refined fuels and products,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Mining,B,Oil and Gas Extraction,07,PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Wood and Wood waste,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Mining,B,Oil and Gas Extraction,07,PJ,7,7,8,10,11,11,10,11,13,13,13,18,20,31,39,45
+Use,Hydro energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Mining,B,Oil and Gas Extraction,07,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Mining,B,Oil and Gas Extraction,07,PJ,31,33,33,32,42,46,52,53,55,61,51,58,60,112,108,114
+Use,Black coal,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Mining,B,Other Mining,"08,09,10",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Mining,B,Other Mining,"08,09,10",PJ,7,8,7,6,10,11,13,13,13,18,47,48,48,70,64,63
+Use,Liquefied natural gas,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,Mining,B,Other Mining,"08,09,10",PJ,76,79,83,85,86,92,93,96,102,110,115,120,139,145,150,152
+Use,Other refined fuels and products,Mining,B,Other Mining,"08,09,10",PJ,2,2,3,3,3,4,3,4,4,6,7,8,6,-,-,5
+Use,LPG,Mining,B,Other Mining,"08,09,10",PJ,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1
+Use,Biofuels,Mining,B,Other Mining,"08,09,10",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Wood and Wood waste,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Mining,B,Other Mining,"08,09,10",PJ,28,30,30,38,37,37,43,45,53,54,60,64,65,66,68,70
+Use,Hydro energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Mining,B,Other Mining,"08,09,10",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Mining,B,Other Mining,"08,09,10",PJ,116,122,125,136,138,146,156,160,175,190,230,243,259,282,283,292
+Use,Black coal,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,12,11,11,12,12,12,12,11,12,9,8,7,7,8,7,7
+Use,Brown coal,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,3,3,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,7,4,5,4,3,3,2,3,3,2,2,2,-,-,-,-
+Use,Natural gas,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,34,35,37,36,36,36,37,36,38,40,39,40,42,41,39,40
+Use,Liquefied natural gas,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Petrol,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Diesel,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,3,3,3,3,3,3,3,3,4,4,4,4,4,5,4,4
+Use,Other refined fuels and products,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,1,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3
+Use,LPG,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2
+Use,Biofuels,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Wood and Wood waste,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,2,2,2,3,3,3,2,2,2,2,2,3,3,2,2,2
+Use,Bagasse,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,15,15,15,15,16,16,16,16,16,16,18,18,18,20,18,19
+Use,Hydro energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,"Food, beverages, textiles","11,12,13",PJ,78,75,82,81,78,80,81,80,83,82,82,81,82,84,77,79
+Use,Black coal,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,6,6,7,7,6,5,5,4,3,3,4,3,3,3,3,3
+Use,Brown coal,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,19,20,22,22,22,22,17,17,16,14,12,11,12,12,12,12
+Use,Liquefied natural gas,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Diesel,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2
+Use,Other refined fuels and products,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,2,2,2,2,2,2
+Use,LPG,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,1,1,-
+Use,Biofuels,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Wood and Wood waste,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,23,23,23,24,26,27,21,22,23,22,19,20,20,22,22,21
+Use,Bagasse,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,10,11,11,11,11,11,11,11,12,11,11,11,12,12,13,13
+Use,Hydro energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,"Wood, paper, printing","14,15,16",PJ,61,62,64,65,68,68,56,58,57,53,52,51,52,54,56,54
+Use,Black coal,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,4,4,5,5,5,5,6,6,6,6,7,6,7,6,6,6
+Use,Brown coal,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Briquettes,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,106,109,100,102,96,106,103,117,115,114,124,135,134,128,123,124
+Use,Liquefied natural gas,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,60,63,60,63,63,63,63,65,60,55,53,45,40,49,46,50
+Use,Petrol,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Diesel,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,1,1,1,1,1,1,1,1,1,2,1,2,1,2
+Use,Other refined fuels and products,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,1,1,1,-,-,-,-
+Use,Bagasse,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,2,2,1,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,25,23,24,24,25,25,24,25,22,22,22,21,20,19,19,18
+Use,Hydro energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,Petroleum and chemical products,"17,18,19",PJ,198,203,193,199,193,203,199,219,207,203,210,211,204,206,196,201
+Use,Black coal,Manufacturing,C,Iron and steel,"211,212",PJ,43,48,47,44,44,47,6,6,3,4,5,3,3,3,-,-
+Use,Brown coal,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,Iron and steel,"211,212",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Manufacturing,C,Iron and steel,"211,212",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Briquettes,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,1,1,1,1,1,1,-,-,-,-
+Use,Natural gas,Manufacturing,C,Iron and steel,"211,212",PJ,23,23,25,24,26,27,23,19,16,18,15,14,15,15,14,15
+Use,Liquefied natural gas,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+Use,Diesel,Manufacturing,C,Iron and steel,"211,212",PJ,2,2,2,2,2,2,2,2,2,3,1,1,4,5,4,4
+Use,Other refined fuels and products,Manufacturing,C,Iron and steel,"211,212",PJ,1,1,1,1,1,1,1,1,1,-,-,-,-,-,-,1
+Use,LPG,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,2,2,2,2
+Use,Biofuels,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,Iron and steel,"211,212",PJ,20,20,22,21,23,23,22,22,25,22,20,20,31,32,31,33
+Use,Hydro energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,Iron and steel,"211,212",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,Iron and steel,"211,212",PJ,120,127,130,125,130,136,58,55,53,51,47,44,61,62,55,61
+Use,Black coal,Manufacturing,C,Non-ferrous metals,"213,214",PJ,52,53,59,59,61,64,61,57,48,49,61,64,64,69,70,70
+Use,Brown coal,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,Non-ferrous metals,"213,214",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Manufacturing,C,Non-ferrous metals,"213,214",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Briquettes,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Manufacturing,C,Non-ferrous metals,"213,214",PJ,132,137,148,150,161,158,155,146,148,162,159,164,147,144,141,138
+Use,Liquefied natural gas,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,Manufacturing,C,Non-ferrous metals,"213,214",PJ,2,2,2,2,2,2,2,2,2,3,6,8,3,3,3,3
+Use,Other refined fuels and products,Manufacturing,C,Non-ferrous metals,"213,214",PJ,52,52,53,54,51,54,48,51,70,79,66,60,38,34,28,30
+Use,LPG,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-
+Use,Wood and Wood waste,Manufacturing,C,Non-ferrous metals,"213,214",PJ,2,2,2,2,2,2,2,1,1,2,2,2,2,2,3,2
+Use,Bagasse,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,Non-ferrous metals,"213,214",PJ,207,210,215,214,225,224,231,238,227,226,214,209,201,199,189,191
+Use,Hydro energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,Non-ferrous metals,"213,214",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,Non-ferrous metals,"213,214",PJ,450,460,483,484,506,510,503,499,501,524,512,510,459,453,437,437
+Use,Black coal,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,31,31,30,30,31,32,26,26,26,24,23,21,20,19,20,19
+Use,Brown coal,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Coal by-products,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np,np
+Use,Briquettes,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,66,67,64,59,71,67,70,71,76,66,65,60,60,59,55,54
+Use,Liquefied natural gas,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,3,3,3,3,3,3,3,3,3,3,5,5,3,4,3,3
+Use,Diesel,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,8,8,9,9,9,10,10,10,11,11,12,11,13,11,16,15
+Use,Other refined fuels and products,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,4,3,3,3,3,5,5,5,5,5,1,2,2,2,2,2
+Use,LPG,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,1,1,1,2,1,1,1,1,1,1,2,2,1,1,1,1
+Use,Biofuels,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,2,1,1,1,1,1,1,1,1,1,-,-,-,-,-,-
+Use,Wood and Wood waste,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,1,1,1,1,1,1,2,2,2,2,2,2,2,3,3,3
+Use,Bagasse,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,15,15,15,15,16,16,16,16,16,16,16,16,14,15,15,16
+Use,Hydro energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Manufacturing,C,Other manufacturing,"20,22,23,24,25",PJ,131,132,128,123,137,137,135,136,141,131,126,119,115,114,115,114
+Use,Black coal,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,1,1,1,1,-,1,-,-,1,1
+Use,Petrol,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,1,1,1,1,1,1,1,1,1,1,-,-,-,-,-,-
+Use,Diesel,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Other refined fuels and products,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,103,114,109,110,112,109,115,114,109,107,99,96,98,101,101,99
+Use,Hydro energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Electricity, gas, water and waste services",D,Electricity supply,26,PJ,103,115,109,110,113,110,117,115,110,109,100,97,98,102,103,100
+Use,Black coal,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,16,18,13,13,10,10,10,10,11,11,12,11,10,10,5,6
+Use,Liquefied natural gas,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Other refined fuels and products,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Hydro energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Electricity, gas, water and waste services",D,Gas supply,27,PJ,16,18,13,14,11,11,10,10,11,11,13,11,10,11,5,7
+Use,Black coal,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,4,3,1
+Use,Liquefied natural gas,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Diesel,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,9,9,9,10,10,10,11,12,12,13,13,12,13,16,14,17
+Use,Other refined fuels and products,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,1,1,1,3,2,2,2,2,2,3
+Use,LPG,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,6,7,7,7,7,7,7,7,7,7,8,9,13,13,13,14
+Use,Hydro energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Electricity, gas, water and waste services",D,Water and waste services,"28,29",PJ,17,18,18,19,19,20,21,22,22,25,25,26,29,35,33,35
+Use,Black coal,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Construction,E,Construction Total,,PJ,2,2,2,2,2,2,2,2,2,2,2,2,3,-,-,-
+Use,Liquefied natural gas,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Construction,E,Construction Total,,PJ,17,18,18,17,18,18,17,18,18,17,22,21,14,20,19,18
+Use,Diesel,Construction,E,Construction Total,,PJ,53,55,58,58,59,62,63,64,68,72,78,83,96,98,104,109
+Use,Other refined fuels and products,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Construction,E,Construction Total,,PJ,3,3,2,3,3,3,3,2,3,3,3,2,2,2,2,2
+Use,Biofuels,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Construction,E,Construction Total,,PJ,4,4,4,4,5,5,5,5,5,5,5,6,6,6,7,7
+Use,Hydro energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Construction,E,Construction Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Construction,E,Construction Total,,PJ,79,82,84,85,86,89,89,91,95,99,110,115,121,127,131,135
+Use,Black coal,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Wholesale trade,F,Wholesale trade Total,,PJ,3,3,3,3,3,3,3,3,3,3,3,3,4,4,5,5
+Use,Liquefied natural gas,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Wholesale trade,F,Wholesale trade Total,,PJ,6,6,6,6,6,6,6,6,6,6,6,5,4,4,4,4
+Use,Diesel,Wholesale trade,F,Wholesale trade Total,,PJ,4,4,5,5,5,5,5,5,6,6,7,7,8,8,9,9
+Use,Other refined fuels and products,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Wholesale trade,F,Wholesale trade Total,,PJ,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1
+Use,Biofuels,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Wholesale trade,F,Wholesale trade Total,,PJ,8,8,8,8,8,8,8,8,8,8,9,9,9,10,10,10
+Use,Hydro energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Wholesale trade,F,Wholesale trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Wholesale trade,F,Wholesale trade Total,,PJ,22,22,23,23,23,24,24,24,24,25,26,26,27,27,28,29
+Use,Black coal,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Retail trade,G,Retail trade Total,,PJ,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1
+Use,Liquefied natural gas,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Retail trade,G,Retail trade Total,,PJ,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4
+Use,Diesel,Retail trade,G,Retail trade Total,,PJ,3,3,3,3,3,4,4,4,4,4,5,5,4,4,4,4
+Use,Other refined fuels and products,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Retail trade,G,Retail trade Total,,PJ,25,26,25,25,27,27,27,27,28,27,29,30,30,31,32,31
+Use,Hydro energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Retail trade,G,Retail trade Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Retail trade,G,Retail trade Total,,PJ,35,36,36,36,37,38,38,38,39,38,41,42,39,40,41,41
+Use,Black coal,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Accommodation and food services,H,Accommodation and food services Total,,PJ,10,10,10,10,10,10,10,10,10,10,11,11,18,18,20,21
+Use,Liquefied natural gas,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Accommodation and food services,H,Accommodation and food services Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Diesel,Accommodation and food services,H,Accommodation and food services Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Other refined fuels and products,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Accommodation and food services,H,Accommodation and food services Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2
+Use,Biofuels,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Accommodation and food services,H,Accommodation and food services Total,,PJ,15,15,15,15,16,16,16,16,17,16,18,18,22,23,23,23
+Use,Hydro energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Accommodation and food services,H,Accommodation and food services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Accommodation and food services,H,Accommodation and food services Total,,PJ,28,28,28,28,29,30,29,30,30,30,32,32,44,45,46,48
+Use,Black coal,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Transport, storage and services",I,Road,46,PJ,2,2,2,2,2,2,2,2,2,2,3,3,1,1,1,-
+Use,Liquefied natural gas,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Transport, storage and services",I,Road,46,PJ,5,5,5,5,5,5,5,5,5,5,4,4,5,3,4,4
+Use,Diesel,"Transport, storage and services",I,Road,46,PJ,128,134,141,144,147,156,159,165,175,187,194,192,196,199,202,203
+Use,Other refined fuels and products,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Transport, storage and services",I,Road,46,PJ,3,3,3,4,3,3,3,3,3,3,2,3,2,1,2,2
+Use,Biofuels,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,1,3,6,7,9,9,9,8,6,6,6,6
+Use,Wood and Wood waste,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Transport, storage and services",I,Road,46,PJ,1,1,1,1,1,2,1,2,2,2,1,2,2,2,3,2
+Use,Hydro energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Transport, storage and services",I,Road,46,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Transport, storage and services",I,Road,46,PJ,140,146,152,156,159,170,176,184,195,207,214,211,212,213,216,218
+Use,Black coal,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,"Transport, storage and services",I,Rail,47,PJ,21,22,23,24,24,26,26,27,29,31,34,30,30,30,30,29
+Use,Other refined fuels and products,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Transport, storage and services",I,Rail,47,PJ,4,4,4,4,4,5,4,5,5,5,5,5,6,5,6,6
+Use,Hydro energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Transport, storage and services",I,Rail,47,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Transport, storage and services",I,Rail,47,PJ,26,27,28,28,29,31,31,32,34,36,39,35,36,35,36,36
+Use,Black coal,"Transport, storage and services",I,Water,48,PJ,5,6,8,7,7,8,5,4,3,3,-,-,-,-,-,-
+Use,Brown coal,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,"Transport, storage and services",I,Water,48,PJ,1,1,2,2,2,2,2,2,2,2,3,3,3,2,2,3
+Use,Other refined fuels and products,"Transport, storage and services",I,Water,48,PJ,39,41,38,39,39,43,41,34,30,36,27,31,23,24,24,24
+Use,LPG,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Hydro energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Transport, storage and services",I,Water,48,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Transport, storage and services",I,Water,48,PJ,45,48,47,47,48,52,47,40,35,41,31,34,26,26,26,27
+Use,Black coal,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,1,-,1,-,-
+Use,Other refined fuels and products,"Transport, storage and services",I,Air,49,PJ,159,180,202,209,230,236,241,255,263,273,289,303,302,316,331,346
+Use,LPG,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Hydro energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Transport, storage and services",I,Air,49,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Transport, storage and services",I,Air,49,PJ,160,181,204,210,231,237,242,256,264,274,290,304,303,317,332,347
+Use,Black coal,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,13,13,14,14,14,14,13,14,14,14,12,14,13,12,11,11
+Use,Liquefied natural gas,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,3,3,3,3,3,3,3,3,3,3,3,4,2,3,2,4
+Use,Diesel,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,11,12,13,13,13,14,14,14,15,17,24,15,24,19,18,25
+Use,Other refined fuels and products,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,1,1,1,1,1,1
+Use,LPG,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,5,5,5,6,5,5,5,5,5,5,2,2,1,2,2,1
+Use,Biofuels,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,7,7,7,7,8,8,8,8,8,8,10,10,8,8,7,8
+Use,Hydro energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Transport, storage and services",I,"Other transport, storage and services","50,51,52,53",PJ,40,41,42,43,43,44,44,45,46,47,52,44,48,44,41,49
+Use,Black coal,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-
+Use,Liquefied natural gas,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,1,1,1,1,1,1,1,1,1,1,-,-,-,1,1
+Use,Diesel,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Other refined fuels and products,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,9,9,9,9,9,9,9,9,9,9,10,10,9,9,9,9
+Use,Hydro energy,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Information Media and Telecommunications,J,Information media and telecommunications Total,,PJ,11,11,11,11,11,11,11,11,12,11,12,13,11,11,12,12
+Use,Black coal,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Diesel,Financial and insurance services,K,Financial and insurance services Total,,PJ,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2
+Use,Other refined fuels and products,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Financial and insurance services,K,Financial and insurance services Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Hydro energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Financial and insurance services,K,Financial and insurance services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Financial and insurance services,K,Financial and insurance services Total,,PJ,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4
+Use,Black coal,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,5,5,5,5,5,5,5,5,5,5,5,5,6,6,7,7
+Use,Liquefied natural gas,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Use,Diesel,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,8,8,9,9,9,10,10,9,11,13,12,13,13,13,14,15
+Use,Other refined fuels and products,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,1,1,1,1,1,1,1,1,1,1,1,1,-,-,-,-
+Use,Biofuels,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,21,21,21,21,23,23,23,23,23,23,24,25,19,19,20,20
+Use,Hydro energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Rental, hiring and real estate services",L,"Rental, hiring and real estate services Total",,PJ,37,37,38,39,40,41,40,40,42,44,45,46,41,42,43,45
+Use,Black coal,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,4
+Use,Liquefied natural gas,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Use,Diesel,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,4,4,5,5,5,5,5,5,5,6,6,6,6,6,6,7
+Use,Other refined fuels and products,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+Use,Biofuels,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,4,4,4,4,4,4,4,4,4,4,5,5,4,5,5,5
+Use,Hydro energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,"Professional, scientific and technical services",M,"Professional, scientific and technical services Total",,PJ,14,15,15,15,15,16,15,16,16,16,16,17,17,17,18,18
+Use,Black coal,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Liquefied natural gas,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Administrative and support services,N,Administrative and support services Total,,PJ,2,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2
+Use,Diesel,Administrative and support services,N,Administrative and support services Total,,PJ,4,4,4,4,4,5,5,5,5,6,6,6,7,7,7,7
+Use,Other refined fuels and products,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+Use,Biofuels,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Administrative and support services,N,Administrative and support services Total,,PJ,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3
+Use,Hydro energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Administrative and support services,N,Administrative and support services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Administrative and support services,N,Administrative and support services Total,,PJ,9,9,9,10,10,10,10,10,11,11,11,11,13,13,13,13
+Use,Black coal,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Public administration and safety,O,Public administration and safety Total,,PJ,4,4,4,4,4,5,4,5,5,5,5,5,4,5,5,5
+Use,Liquefied natural gas,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Public administration and safety,O,Public administration and safety Total,,PJ,3,4,4,4,4,4,4,4,4,4,3,3,4,4,4,4
+Use,Diesel,Public administration and safety,O,Public administration and safety Total,,PJ,13,15,15,15,16,17,17,18,19,20,21,22,18,19,19,20
+Use,Other refined fuels and products,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Public administration and safety,O,Public administration and safety Total,,PJ,10,11,10,10,11,11,11,11,11,11,12,12,14,15,15,15
+Use,Hydro energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Public administration and safety,O,Public administration and safety Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Public administration and safety,O,Public administration and safety Total,,PJ,32,34,34,35,35,37,37,38,39,40,42,43,41,42,44,45
+Use,Black coal,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Education and training,P,Education and training Total,,PJ,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6
+Use,Liquefied natural gas,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Education and training,P,Education and training Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Diesel,Education and training,P,Education and training Total,,PJ,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Use,Other refined fuels and products,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Education and training,P,Education and training Total,,PJ,9,9,9,9,10,10,10,10,10,10,11,11,11,11,11,11
+Use,Hydro energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Education and training,P,Education and training Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Education and training,P,Education and training Total,,PJ,17,17,17,17,18,18,18,18,19,18,19,20,19,19,20,21
+Use,Black coal,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Health care and social assistance,Q,Health care and social assistance Total,,PJ,9,8,9,9,9,9,9,9,9,9,9,10,9,9,10,11
+Use,Liquefied natural gas,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Health care and social assistance,Q,Health care and social assistance Total,,PJ,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3
+Use,Diesel,Health care and social assistance,Q,Health care and social assistance Total,,PJ,3,3,3,3,3,3,3,3,4,4,4,4,3,3,3,4
+Use,Other refined fuels and products,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Health care and social assistance,Q,Health care and social assistance Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-
+Use,Biofuels,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Health care and social assistance,Q,Health care and social assistance Total,,PJ,12,12,12,12,12,13,12,13,13,13,14,14,13,13,14,14
+Use,Hydro energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Health care and social assistance,Q,Health care and social assistance Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Health care and social assistance,Q,Health care and social assistance Total,,PJ,27,27,27,28,29,29,28,29,30,29,31,32,29,29,31,31
+Use,Black coal,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Arts and recreation services,R,Arts and recreation services Total,,PJ,2,2,2,2,3,3,2,3,3,3,3,3,2,2,3,3
+Use,Liquefied natural gas,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Arts and recreation services,R,Arts and recreation services Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Diesel,Arts and recreation services,R,Arts and recreation services Total,,PJ,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3
+Use,Other refined fuels and products,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Biofuels,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Arts and recreation services,R,Arts and recreation services Total,,PJ,4,4,4,4,4,4,4,4,4,4,4,4,5,5,6,6
+Use,Hydro energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Arts and recreation services,R,Arts and recreation services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Arts and recreation services,R,Arts and recreation services Total,,PJ,9,9,9,9,9,9,9,9,10,10,10,10,11,11,12,12
+Use,Black coal,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Other services,S,Other services Total,,PJ,2,2,2,2,3,3,2,3,3,3,3,3,3,3,3,4
+Use,Liquefied natural gas,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Other services,S,Other services Total,,PJ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Use,Diesel,Other services,S,Other services Total,,PJ,4,4,5,5,5,5,5,5,5,6,6,6,6,6,6,7
+Use,Other refined fuels and products,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,1
+Use,Biofuels,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Other services,S,Other services Total,,PJ,4,4,4,4,4,4,4,4,4,4,5,5,4,5,5,5
+Use,Hydro energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Other services,S,Other services Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Other services,S,Other services Total,,PJ,14,15,15,15,15,16,15,16,16,16,16,17,17,17,18,18
+Use,Black coal,Total use by industry,,Total use by Industry Total,,PJ,153,161,168,164,167,175,121,114,100,98,107,106,104,107,105,105
+Use,Brown coal,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Total use by industry,,Total use by Industry Total,,PJ,4,4,6,5,5,5,7,7,7,7,7,8,8,7,8,8
+Use,Coal by-products,Total use by industry,,Total use by Industry Total,,PJ,31,33,35,35,33,36,1,1,1,1,1,1,-,1,1,-
+Use,Briquettes,Total use by industry,,Total use by Industry Total,,PJ,10,5,7,6,4,4,5,5,5,4,4,4,-,-,-,-
+Use,Natural gas,Total use by industry,,Total use by Industry Total,,PJ,479,494,494,490,519,527,523,526,531,546,569,582,571,623,589,592
+Use,Liquefied natural gas,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Total use by industry,,Total use by Industry Total,,PJ,63,66,64,66,65,66,67,68,63,58,56,49,43,52,49,53
+Use,Petrol,Total use by industry,,Total use by Industry Total,,PJ,69,72,72,72,73,73,72,72,73,72,78,76,63,71,69,70
+Use,Diesel,Total use by industry,,Total use by Industry Total,,PJ,490,511,538,549,557,593,602,624,660,709,759,763,796,818,846,880
+Use,Other refined fuels and products,Total use by industry,,Total use by Industry Total,,PJ,258,281,302,311,329,344,345,356,379,407,401,414,381,384,394,417
+Use,LPG,Total use by industry,,Total use by Industry Total,,PJ,28,28,26,30,29,28,28,27,27,27,23,21,21,22,20,20
+Use,Biofuels,Total use by industry,,Total use by Industry Total,,PJ,3,2,2,2,3,4,7,10,12,12,12,12,11,7,7,7
+Use,Wood and Wood waste,Total use by industry,,Total use by Industry Total,,PJ,30,30,29,30,32,34,27,28,29,28,27,28,28,30,30,29
+Use,Bagasse,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,2,2,1,-,-,-,-,-,-
+Use,Electricity,Total use by industry,,Total use by Industry Total,,PJ,603,623,621,633,664,662,675,688,684,676,676,686,692,710,713,724
+Use,Hydro energy,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Total use by industry,,Total use by Industry Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Total use by industry,,Total use by Industry Total,,PJ,"2,222","2,311","2,366","2,393","2,480","2,551","2,480","2,527","2,572","2,647","2,720","2,749","2,720","2,832","2,831","2,904"
+Use,Black coal,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Consumption by households,,Consumption by households Total,,PJ,123,123,126,130,132,133,136,139,144,147,151,155,158,161,161,161
+Use,Liquefied natural gas,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Consumption by households,,Consumption by households Total,,PJ,552,573,574,572,576,577,571,573,582,573,564,548,560,549,570,561
+Use,Diesel,Consumption by households,,Consumption by households Total,,PJ,84,88,94,94,94,102,103,107,114,125,140,165,169,169,183,209
+Use,Other refined fuels and products,Consumption by households,,Consumption by households Total,,PJ,3,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,LPG,Consumption by households,,Consumption by households Total,,PJ,72,73,69,79,75,73,73,70,71,71,75,74,74,68,56,50
+Use,Biofuels,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Consumption by households,,Consumption by households Total,,PJ,73,71,68,66,63,61,58,56,53,53,53,52,50,49,49,48
+Use,Bagasse,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Consumption by households,,Consumption by households Total,,PJ,189,196,193,196,202,203,205,211,219,216,213,203,208,208,206,207
+Use,Hydro energy,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Consumption by households,,Consumption by households Total,,PJ,3,3,3,2,6,7,8,12,17,21,26,29,34,37,42,49
+Use,Wind energy,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Consumption by households,,Consumption by households Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Consumption by households,,Consumption by households Total,,PJ,"1,099","1,129","1,127","1,139","1,148","1,156","1,155","1,167","1,199","1,206","1,223","1,226","1,253","1,243","1,268","1,285"
+Use,Black coal,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Brown coal,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Government use,,Government use Total,,PJ,9,8,9,9,9,9,9,9,9,9,9,10,9,9,10,10
+Use,Liquefied natural gas,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Petrol,Government use,,Government use Total,,PJ,7,7,7,7,7,7,7,7,7,7,7,7,7,7,8,8
+Use,Diesel,Government use,,Government use Total,,PJ,20,22,22,23,23,25,25,27,28,29,31,32,27,27,28,30
+Use,Other refined fuels and products,Government use,,Government use Total,,PJ,12,12,11,11,12,9,9,9,10,11,11,12,12,12,11,11
+Use,LPG,Government use,,Government use Total,,PJ,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Use,Biofuels,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Government use,,Government use Total,,PJ,38,39,38,38,41,41,41,41,42,41,44,46,52,54,55,55
+Use,Hydro energy,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Government use,,Government use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Government use,,Government use Total,,PJ,86,89,88,89,92,93,92,95,97,99,104,107,108,110,113,115
+Use,Black coal,Accumulation,,Accumulation Total,,PJ,-74,-203,-114,-46,79,-87,24,-34,-213,17,114,-11,-31,-170,111,220
+Use,Brown coal,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Accumulation,,Accumulation Total,,PJ,11,20,22,19,18,17,5,11,13,6,-2,-3,-3,-4,-7,-10
+Use,Coal by-products,Accumulation,,Accumulation Total,,PJ,-5,-11,-1,-2,-4,-4,10,8,7,7,9,9,5,4,4,4
+Use,Briquettes,Accumulation,,Accumulation Total,,PJ,-2,-3,-1,2,1,-,-,-,-,-,-,-,-,-1,-,-
+Use,Natural gas,Accumulation,,Accumulation Total,,PJ,88,53,59,89,102,163,111,50,132,-10,47,117,77,131,-18,-14
+Use,Liquefied natural gas,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Accumulation,,Accumulation Total,,PJ,-90,-239,-179,-90,-84,-84,-126,-39,-176,-171,-187,-158,-165,-171,-162,-176
+Use,Petrol,Accumulation,,Accumulation Total,,PJ,5,24,39,15,23,25,66,45,2,1,9,-15,-11,-10,-45,-40
+Use,Diesel,Accumulation,,Accumulation Total,,PJ,-54,-22,-3,-45,-44,24,51,27,36,63,57,53,33,21,-7,18
+Use,Other refined fuels and products,Accumulation,,Accumulation Total,,PJ,109,138,92,32,85,109,120,88,113,140,96,60,104,99,93,119
+Use,LPG,Accumulation,,Accumulation Total,,PJ,-3,-1,4,-,12,12,13,12,8,20,3,2,2,3,-7,-4
+Use,Biofuels,Accumulation,,Accumulation Total,,PJ,-1,-1,-1,-1,-1,-1,-1,-1,-2,-2,-1,-1,-1,-1,-1,-1
+Use,Wood and Wood waste,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-1,-,-
+Use,Bagasse,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Accumulation,,Accumulation Total,,PJ,2,2,2,2,2,2,2,2,2,2,-7,-7,-7,-7,-7,-7
+Use,Hydro energy,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Accumulation,,Accumulation Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Accumulation,,Accumulation Total,,PJ,-198,221,-133,-109,6,-9,100,-232,88,351,265,-305,461,-354,101,-688
+Use,Total,Accumulation,,Accumulation Total,,PJ,-213,-22,-213,-135,194,169,376,-62,11,424,401,-259,465,-460,56,-579
+Use,Black coal,Exports,,Exports Total,,PJ,"5,934","6,228","6,615","6,612","6,952","7,157","7,384","8,305","8,055","8,516","9,476","10,578","11,067","11,001","10,686","10,761"
+Use,Brown coal,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Exports,,Exports Total,,PJ,8,-,-,-,-,-,-,-,-,16,31,27,18,20,20,20
+Use,Coal by-products,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Exports,,Exports Total,,PJ,3,3,3,3,4,4,5,5,5,4,4,4,4,5,5,5
+Use,Liquefied natural gas,Exports,,Exports Total,,PJ,426,431,576,654,780,744,838,987,"1,102","1,041","1,298","1,284","1,383","2,016","2,855","3,376"
+Use,Crude oil and feedstocks,Exports,,Exports Total,,PJ,775,649,584,486,596,597,678,726,788,690,634,584,582,534,498,500
+Use,Petrol,Exports,,Exports Total,,PJ,48,39,38,35,38,33,22,21,19,18,15,17,19,20,27,23
+Use,Diesel,Exports,,Exports Total,,PJ,41,35,15,17,12,19,15,8,6,6,4,3,4,3,6,5
+Use,Other refined fuels and products,Exports,,Exports Total,,PJ,38,31,27,36,26,27,21,17,18,33,28,17,18,19,28,30
+Use,LPG,Exports,,Exports Total,,PJ,86,79,79,78,103,95,96,101,93,76,87,82,66,63,71,69
+Use,Biofuels,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wood and Wood waste,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Bagasse,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Electricity,Exports,,Exports Total,,PJ,5,6,6,6,7,7,9,8,7,6,5,5,6,7,7,7
+Use,Hydro energy,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Wind energy,Exports,,Exports Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Exports,,Exports Total,,PJ,"4,509","4,277","5,287","4,819","4,474","4,766","4,754","3,551","3,267","3,251","3,944","3,100","2,592","3,956","3,328","3,815"
+Use,Total,Exports,,Exports Total,,PJ,"11,874","11,776","13,230","12,747","12,991","13,449","13,822","13,728","13,359","13,658","15,525","15,700","15,760","17,645","17,531","18,609"
+Use,Black coal,Use,,Total Net Use Total,,PJ,"6,013","6,187","6,669","6,730","7,197","7,246","7,530","8,385","7,942","8,631","9,696","10,673","11,141","10,938","10,902","11,086"
+Use,Brown coal,Use,,Total Net Use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coke,Use,,Total Net Use Total,,PJ,23,24,28,25,24,23,12,18,21,29,36,32,24,23,21,18
+Use,Coal by-products,Use,,Total Net Use Total,,PJ,26,22,34,32,29,31,11,9,8,8,10,10,5,5,5,5
+Use,Briquettes,Use,,Total Net Use Total,,PJ,8,3,6,7,5,4,5,5,5,5,4,4,-,-,-,-
+Use,Natural gas,Use,,Total Net Use Total,,PJ,693,673,683,712,756,828,776,721,811,686,771,858,811,920,737,743
+Use,Liquefied natural gas,Use,,Total Net Use Total,,PJ,426,431,576,654,780,744,838,987,"1,102","1,041","1,298","1,284","1,383","2,016","2,855","3,376"
+Use,Crude oil and feedstocks,Use,,Total Net Use Total,,PJ,748,477,469,462,577,579,619,755,675,577,502,474,460,416,385,376
+Use,Petrol,Use,,Total Net Use Total,,PJ,674,708,723,693,709,708,731,711,676,663,666,626,630,631,621,614
+Use,Diesel,Use,,Total Net Use Total,,PJ,561,611,644,614,618,738,770,766,816,903,961,984,"1,002","1,012","1,028","1,111"
+Use,Other refined fuels and products,Use,,Total Net Use Total,,PJ,408,451,421,379,440,480,487,461,510,580,524,491,504,502,515,567
+Use,LPG,Use,,Total Net Use Total,,PJ,182,179,179,188,218,208,210,210,200,195,187,180,164,156,140,134
+Use,Biofuels,Use,,Total Net Use Total,,PJ,2,1,1,1,2,3,6,9,10,10,11,11,10,6,6,6
+Use,Wood and Wood waste,Use,,Total Net Use Total,,PJ,103,100,97,96,95,95,86,84,82,81,79,79,77,78,79,77
+Use,Bagasse,Use,,Total Net Use Total,,PJ,-,-,-,-,-,-,-,2,2,1,-,-,-,-,-,-
+Use,Electricity,Use,,Total Net Use Total,,PJ,800,827,823,838,875,875,891,909,912,900,887,887,899,917,919,931
+Use,Hydro energy,Use,,Total Net Use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Solar energy,Use,,Total Net Use Total,,PJ,3,3,3,3,6,7,9,12,17,21,27,29,34,38,42,49
+Use,Wind energy,Use,,Total Net Use Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Uranium,Use,,Total Net Use Total,,PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Use,Total,Use,,Total Net Use Total,,PJ,"14,982","15,194","16,510","16,143","16,812","17,325","17,833","17,361","17,142","17,935","19,869","19,417","20,197","21,260","21,686","22,220"
+Use,Black coal,Conversions and losses,,Conversions and losses Total,,PJ,"1,274","1,349","1,386","1,412","1,435","1,405","1,479","1,374","1,302","1,255","1,205","1,134","1,147","1,219","1,260","1,284"
+Use,Brown coal,Conversions and losses,,Conversions and losses Total,,PJ,732,727,737,745,728,732,752,759,737,745,645,625,678,635,584,473
+Use,Coke,Conversions and losses,,Conversions and losses Total,,PJ,-23,-24,-28,-25,-24,-23,-12,-18,-21,-29,-36,-32,-24,-23,-21,-18
+Use,Coal by-products,Conversions and losses,,Conversions and losses Total,,PJ,-26,-22,-34,-32,-29,-31,-11,-9,-8,-8,-10,-10,-5,-5,-5,-5
+Use,Briquettes,Conversions and losses,,Conversions and losses Total,,PJ,-8,-3,-6,-7,-5,-4,-5,-5,-5,-5,-4,-4,-,-,-,-
+Use,Natural gas,Conversions and losses,,Conversions and losses Total,,PJ,769,790,954,"1,037","1,263","1,252","1,428","1,575","1,698","1,684","1,951","1,950","2,070","2,693","3,599","4,175"
+Use,Liquefied natural gas,Conversions and losses,,Conversions and losses Total,,PJ,-426,-431,-576,-654,-780,-744,-838,-987,"-1,102","-1,041","-1,298","-1,284","-1,383","-2,016","-2,855","-3,376"
+Use,Crude oil and feedstocks,Conversions and losses,,Conversions and losses Total,,PJ,"1,566","1,465","1,480","1,343","1,440","1,399","1,414","1,370","1,570","1,499","1,495","1,402","1,223","1,054","1,024","1,081"
+Use,Petrol,Conversions and losses,,Conversions and losses Total,,PJ,-613,-594,-613,-565,-606,-584,-587,-574,-569,-533,-534,-497,-436,-398,-378,-390
+Use,Diesel,Conversions and losses,,Conversions and losses Total,,PJ,-498,-481,-491,-378,-408,-449,-451,-430,-474,-469,-477,-458,-415,-325,-312,-333
+Use,Other refined fuels and products,Conversions and losses,,Conversions and losses Total,,PJ,-349,-350,-313,-265,-284,-287,-279,-251,-314,-385,-324,-280,-271,-207,-222,-251
+Use,LPG,Conversions and losses,,Conversions and losses Total,,PJ,1,1,1,1,1,1,1,1,1,1,-,1,-,-,-,-
+Use,Biofuels,Conversions and losses,,Conversions and losses Total,,PJ,9,10,8,9,9,12,14,14,16,17,15,18,18,17,16,17
+Use,Wood and Wood waste,Conversions and losses,,Conversions and losses Total,,PJ,2,3,3,3,3,4,3,4,3,2,12,13,15,17,18,17
+Use,Bagasse,Conversions and losses,,Conversions and losses Total,,PJ,95,101,108,109,111,111,65,92,82,83,95,90,103,103,110,100
+Use,Electricity,Conversions and losses,,Conversions and losses Total,,PJ,-799,-827,-822,-837,-874,-875,-891,-909,-911,-900,-887,-887,-899,-917,-919,-930
+Use,Hydro energy,Conversions and losses,,Conversions and losses Total,,PJ,59,59,56,58,52,43,43,49,61,51,66,66,48,55,58,57
+Use,Solar energy,Conversions and losses,,Conversions and losses Total,,PJ,-,-,-,-,-,-,-,-,1,1,1,1,1,2,3,4
+Use,Wind energy,Conversions and losses,,Conversions and losses Total,,PJ,3,3,3,6,9,11,14,18,22,25,29,37,41,44,45,55
+Use,Uranium,Conversions and losses,,Conversions and losses Total,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Total,Conversions and losses,,Conversions and losses Total,,PJ,"1,768","1,775","1,854","1,960","2,041","1,974","2,140","2,074","2,087","1,993","1,944","1,886","1,912","1,947","2,006","1,960"
+Use,Black coal,Total use ,,,,PJ,"7,287","7,535","8,055","8,141","8,632","8,651","9,009","9,759","9,244","9,885","10,902","11,807","12,288","12,157","12,162","12,370"
+Use,Brown coal,Total use ,,,,PJ,732,727,737,745,728,732,752,759,737,745,645,625,678,635,584,473
+Use,Coke,Total use ,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Coal by-products,Total use ,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Briquettes,Total use ,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Natural gas,Total use ,,,,PJ,"1,462","1,463","1,638","1,749","2,019","2,080","2,204","2,296","2,509","2,370","2,722","2,808","2,881","3,613","4,336","4,918"
+Use,Liquefied natural gas,Total use ,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Crude oil and feedstocks,Total use ,,,,PJ,"2,315","1,942","1,949","1,805","2,017","1,978","2,033","2,125","2,245","2,076","1,998","1,876","1,683","1,469","1,409","1,457"
+Use,Petrol,Total use ,,,,PJ,61,114,110,128,103,124,144,138,107,131,132,129,194,233,243,223
+Use,Diesel,Total use ,,,,PJ,63,131,153,237,211,289,319,335,341,434,484,526,587,687,716,778
+Use,Other refined fuels and products,Total use ,,,,PJ,59,101,108,114,155,193,208,210,196,195,200,211,233,294,293,316
+Use,LPG,Total use ,,,,PJ,183,180,180,189,219,209,210,210,200,196,187,180,164,156,141,135
+Use,Biofuels,Total use ,,,,PJ,11,11,9,10,11,15,20,23,26,28,26,29,28,23,22,23
+Use,Wood and Wood waste,Total use ,,,,PJ,105,103,100,99,99,99,89,88,85,83,91,93,92,96,98,94
+Use,Bagasse,Total use ,,,,PJ,95,101,108,109,111,111,65,93,83,85,95,90,103,103,110,100
+Use,Electricity,Total use ,,,,PJ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Use,Hydro energy,Total use ,,,,PJ,59,59,56,58,52,43,43,49,61,51,66,66,48,55,59,58
+Use,Solar energy,Total use ,,,,PJ,3,3,3,3,6,7,9,12,17,22,27,29,35,40,45,53
+Use,Wind energy,Total use ,,,,PJ,3,3,3,6,9,11,14,18,22,25,29,37,41,44,45,55
+Use,Uranium,Total use ,,,,PJ,"4,311","4,497","5,154","4,710","4,480","4,757","4,854","3,319","3,355","3,602","4,209","2,795","3,053","3,603","3,429","3,127"
+Use,Total,Total use ,,,,PJ,"16,750","16,969","18,364","18,103","18,853","19,300","19,973","19,435","19,229","19,928","21,813","21,303","22,110","23,207","23,692","24,180"
+,,,,,,,,,,,,,,,,,,,,,,
+ - nil or rounded to zero (including null cells),,,,,,,,,,,,,,,,,,,,,,
+np not available for publication,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+© Commonwealth of Australia 2019,,,,,,,,,,,,,,,,,,,,,,
