@@ -12,3 +12,8 @@
     @media screen and (max-width: 1200) {
       .row.content {height: auto;} 
     }
+
+    * {
+      background-color:beige;
+      font-family: 'Tw Cen MT', sans-serif;
+    }
