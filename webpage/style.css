@@ -44,3 +44,12 @@ main .card {
 .nav-item text-nowrap li {
   display: inline;
 }
+
+.row {
+  background-color: red;
+}
+
+.tableauPlaceholder {
+  height: calc(100% - 15px);
+  margin-bottom: 15px;
+}
