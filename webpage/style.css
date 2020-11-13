@@ -1,3 +1,7 @@
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+
 .form-control-primary {
   margin: 10px;
   opacity: 0.2;
