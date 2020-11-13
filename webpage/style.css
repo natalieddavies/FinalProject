@@ -1,23 +1,38 @@
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 550px}
-    
-    /* Set gray background color and 100% height */
-    .sidenav {
-      background-color: lightblue;
-      height: 100%;
-      width: 200px;
-    }
-        
-    /* On small screens, set height to 'auto' for the grid */
-    @media screen and (max-width: 1200) {
-      .row.content {height: auto;} 
-    }
+.form-control-primary {
+  margin: 10px;
+  opacity: 0.2;
+  border-radius: 2px;
+}
 
-    * {
-      background-color:lightblue;
-      font-family: 'Tw Cen MT', sans-serif;
-    }
+.sidebar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 100;
+  padding: 70px 0 0 10px;
+  border-right: 1px solid #d3d3d3;
+}
 
-    .well {
-      background-color:snow;
-    }
+.left-sidebar {
+  position: sticky;
+  top:0;
+  height: calc(100vh - 70px)
+}
+
+.sidebar-nav li .nav-link {
+  color: #333;
+  font-weight: 500;
+}
+
+* {
+  font-family: 'Tw Cen MT', sans-serif;
+}
+
+main {
+  padding-top: 90px;
+}
+
+main .card {
+  margin-bottom: 20px;
+}
