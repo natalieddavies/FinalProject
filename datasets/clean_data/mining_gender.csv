@@ -1661,7 +1661,7 @@ Date,Sex,Location,Employed full-time ('000),Employed part-time ('000)
 2019,Males,VIC,6.78979114,0.63201919
 2019,Males,VIC,11.44749158,0
 2019,Males,QLD,14.09768155,0.45949464
-2019,Males,QLD,n.p.,n.p.
+2019,Males,QLD,0,0
 2019,Males,SA,5.85267017,0.52255646
 2019,Males,SA,5.70854762,0
 2019,Males,WA,60.91568395,1.84719988
@@ -1674,7 +1674,7 @@ Date,Sex,Location,Employed full-time ('000),Employed part-time ('000)
 2019,Females,VIC,2.20375273,0.52585915
 2019,Females,VIC,0.49985864,0.63660458
 2019,Females,QLD,3.64389903,0
-2019,Females,QLD,n.p.,n.p.
+2019,Females,QLD,0,0
 2019,Females,SA,0.7929685,0.2351467
 2019,Females,SA,0.23751801,0
 2019,Females,WA,8.3103358,2.85682438
