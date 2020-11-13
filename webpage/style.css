@@ -4,6 +4,10 @@
   border-radius: 2px;
 }
 
+body { 
+  padding-top: 65px; 
+}
+
 .sidebar {
   position: fixed;
   left: 0;
@@ -25,14 +29,14 @@
   font-weight: 500;
 }
 
-* {
-  font-family: 'Tw Cen MT', sans-serif;
-}
-
 main {
   padding-top: 90px;
 }
 
 main .card {
   margin-bottom: 20px;
+}
+
+.nav-item text-nowrap li {
+  display: inline;
 }
