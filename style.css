@@ -8,10 +8,6 @@ body {
   border-radius: 2px;
 }
 
-/* body { 
-  padding-top: px; 
-} */
-
 .sidebar {
   position: fixed;
   left: 0;
