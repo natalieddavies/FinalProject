@@ -8,9 +8,9 @@ body {
   border-radius: 2px;
 }
 
-body { 
-  padding-top: 65px; 
-}
+/* body { 
+  padding-top: px; 
+} */
 
 .sidebar {
   position: fixed;
@@ -46,10 +46,17 @@ main .card {
 }
 
 .row {
-  background-color: red;
+  background-color: #e3e3e3;
 }
 
-.tableauPlaceholder {
-  height: calc(100% - 15px);
-  margin-bottom: 15px;
+.card-body {
+  background-color: white;
+}
+
+.card mb-3 {
+  background-color: white;
+}
+
+.col-md-8 {
+  background-color:white;
 }
