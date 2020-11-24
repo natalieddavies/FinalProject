@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# Australian Mining Industry - Equality & Commodities
 https://natalieddavies.github.io/FinalProject/
 
 ## DATA QUESTION
